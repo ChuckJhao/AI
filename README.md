@@ -30,7 +30,7 @@
 
 ### Common
 
-* __init__, utility.
+* _init_, utility.
   
 ### Data Preprocess
 
@@ -66,12 +66,33 @@
 
   * Import Iris data set, decision_regions for test data, decision_regions for training data, getting the confusion matrix. 
   
-### Random Forest
-  
-  * Decision Tree
-  
+### Decision Tree and Random Forest
+
+* Decision Tree
+
+    * Train, Classifier, Use entropy as a criterion, Calculation accuracy, Test report, Decision tree visualization, Visualize the decision boundary of the decision tree.
+    
+* Random Forest
+
+    * Calculate the score, Use RandomForest to find out the main features of Iris data classification, AdaBoost (Adaptive Boosting) Algorithm.
   
 ### Regression
+
+* Boston_House_Price
+
+    * Project: House-Price-Prediction use Linear Regression, Basic data analysis, train test split, Model fit, Prediction, Evaluation model, Save/Export Model, Plot, Differences with or without standardization, k-fold cross-validation : evaluating estimator performance.
+
+* Linear Regression-1
+
+    * Linear, Nonlinear, Training data, Test data, Calculate MSE.
+
+* Linear Regression-2
+
+    * Property value prediction, Boston House Price, cross-validation.
+
+* Ridge and Lasso Regression
+
+    * Create a Ridge Regression, R2 Score, Create a Lasso Regression.
 
 ---
   
