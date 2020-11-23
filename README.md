@@ -26,6 +26,8 @@
 
 ---
 
+---
+
 ## *Machine learning*
 
 ### Common
@@ -95,18 +97,66 @@
     * Create a Ridge Regression, R2 Score, Create a Lasso Regression.
 
 ---
+
+---
   
 ## *Deep learning*
 
 ### Concept
+
+* activation
+
+    * sigmod, Relu, Tangent, Softmax, Cross Entropy, ACE(Average Cross Entropy).
+
+* exercise1
+
+    * Create a logical gate using a simple DNN.
+    
+* hello_keras
+
+    * Define Network, Prepare data, training, model evaluation, model prediction, model score.
   
 ### MLP from scratch
+
+* DeepLearning without framework numeric method
+
+    * Use numerical differentiation method to find the differential (partial differential) solution of the function, gradient, Plot a 2D field of arrows, Define two layers network, load MNIST dataset, create the model, train the model, save the model, Load pre-trained model.
   
 ### Deep Neural Network
+
+* ANN_regression_Boston_House_Price
+
+    * Project: House-Price-Prediction - use Neural Network, Objectives:1. Predict the sale price for each house. 2. Minimize the difference between predicted and actual rating (RMSE/MSE).
+    
+* DNN,AND,OR,XOR Gate
+
+* iris_DNN
+
+    * Project: Iris, Load DataSet, Data Preproecssing, Create a NN model using Keras, Training, Evaluation, Make predictions, Plot scatter matrix, Plot confusion matrix.
   
 ### Recurrent Neural Network
+
+* airline-passenger
+
+    * Project: RNN_passengers, Loading and Visualizing Data, Preprocessing Data, Create SimpleRNN Model, Predictions and Visualising RNN Model.
+    
+* KKTV
+
+    * Project: train.
+    
+* RNN exercise2
+
+    * Project: Create an RNN network that can predict the next number, Generate the input sequence, create model and train model, Test.
+    
+* RNN exercise2 power
+
+    * Project: Create an RNN network that can predict the next number, Generate the input sequence, create model and train model, Test.
   
 ### Convolutional Neural Network
+
+* convolution
+
+    * padding='same', Import a picture for convolution and output the picture after convolution (street, test, window), Edge Detection, Blur.
   
 ---
 
